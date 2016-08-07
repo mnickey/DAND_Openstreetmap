@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm>
+  <node changeset="6776161" id="302863" lat="37.3769826" lon="-122.0677726" timestamp="2010-12-27T10:41:10Z" uid="14293" user="KindredCoda" version="4" />
+	<node changeset="4136158" id="65577741" lat="37.3216476" lon="-121.9598015" timestamp="2010-03-15T17:01:55Z" uid="201724" user="mk408" version="5" />
+	<node changeset="7057717" id="276317256" lat="37.341238" lon="-122.0649096" timestamp="2011-01-23T03:59:47Z" uid="201724" user="mk408" version="4">
+		<tag k="power" v="tower" />
+	</node>
+	<node changeset="36980330" id="345755248" lat="37.3648992" lon="-122.0299882" timestamp="2016-02-03T16:15:18Z" uid="2511706" user="calfarome" version="3" />
+	<node changeset="2134130" id="464188647" lat="37.3551772" lon="-121.9956829" timestamp="2009-08-13T18:24:29Z" uid="55774" user="nmixter" version="2" />
+	<node changeset="3786397" id="628054209" lat="37.3066737" lon="-122.0764048" timestamp="2010-02-03T21:33:02Z" uid="201724" user="mk408" version="1" />
+	<node changeset="6141427" id="664235269" lat="37.3954792" lon="-121.9775432" timestamp="2010-10-23T00:42:59Z" uid="51581" user="dandv" version="2" />
+	<node changeset="7057701" id="1116411206" lat="37.4288025" lon="-122.07683" timestamp="2011-01-23T03:52:08Z" uid="201724" user="mk408" version="1" />
+	<node changeset="33208008" id="1296858071" lat="37.3119351" lon="-122.0328538" timestamp="2015-08-08T20:22:46Z" uid="202256" user="Telecas" version="2" />
+	<node changeset="8964465" id="1392073171" lat="37.4169933" lon="-122.0825131" timestamp="2011-08-09T08:30:47Z" uid="500077" user="osmsf" version="1" />
+	<node changeset="10782798" id="1640103502" lat="37.4097974" lon="-122.1037659" timestamp="2012-02-24T21:33:13Z" uid="25510" user="Apo42" version="2" />
+	<node changeset="13581004" id="1976656930" lat="37.3328314" lon="-122.0152672" timestamp="2012-10-21T14:57:11Z" uid="291298" user="pkm" version="1" />
+	<node changeset="36986006" id="2161236609" lat="37.3874038" lon="-122.0373281" timestamp="2016-02-03T20:51:36Z" uid="2512300" user="samely" version="2" />
+	<node changeset="36964389" id="2296217016" lat="37.4092379" lon="-122.0612192" timestamp="2016-02-02T19:35:30Z" uid="1240849" user="ediyes" version="2" />
+	<node changeset="36961146" id="2317601850" lat="37.3795534" lon="-122.0435385" timestamp="2016-02-02T16:56:06Z" uid="2748195" user="karitotp" version="2" />
+	<node changeset="36966506" id="2349700088" lat="37.3753295" lon="-122.046352" timestamp="2016-02-02T21:14:48Z" uid="2219338" user="RichRico" version="2" />
+	<node changeset="16795110" id="2371003185" lat="37.4069657" lon="-122.1096586" timestamp="2013-07-02T17:40:15Z" uid="14293" user="KindredCoda" version="1" />
+	<node changeset="37008406" id="2390049276" lat="37.4196226" lon="-122.1044853" timestamp="2016-02-04T21:04:50Z" uid="2512300" user="samely" version="2" />
+	<node changeset="37021824" id="2391757663" lat="37.4262883" lon="-122.1124737" timestamp="2016-02-05T15:19:18Z" uid="2512300" user="samely" version="2" />
+	<node changeset="37024279" id="2398751531" lat="37.4216683" lon="-122.1123619" timestamp="2016-02-05T17:11:53Z" uid="2512300" user="samely" version="2" />
+	<node changeset="36984281" id="2590701941" lat="37.3546554" lon="-122.0541954" timestamp="2016-02-03T19:31:33Z" uid="1240849" user="ediyes" version="2" />
+	<node changeset="20106635" id="2630024504" lat="37.3933675" lon="-122.0938653" timestamp="2014-01-20T16:33:24Z" uid="510836" user="Rub21" version="1" />
+	<node changeset="36685864" id="2630491181" lat="37.3916872" lon="-122.0750794" timestamp="2016-01-19T18:40:02Z" uid="1240849" user="ediyes" version="2" />
+	<node changeset="20125406" id="2631298910" lat="37.3835771" lon="-122.0719679" timestamp="2014-01-21T16:33:28Z" uid="510836" user="Rub21" version="1" />
+	<node changeset="20254279" id="2641430378" lat="37.3514312" lon="-122.0580764" timestamp="2014-01-28T21:00:58Z" uid="318696" user="n76" version="1" />
+	<node changeset="20603384" id="2675651544" lat="37.3454632" lon="-122.0387855" timestamp="2014-02-16T20:12:15Z" uid="318696" user="n76" version="1" />
+	<node changeset="36985131" id="2768625585" lat="37.3962806" lon="-122.0629203" timestamp="2016-02-03T20:13:08Z" uid="2511706" user="calfarome" version="2" />
+	<node changeset="22299641" id="2853753871" lat="37.3403568" lon="-122.0547217" timestamp="2014-05-12T20:01:38Z" uid="318696" user="n76" version="1" />
+	<node changeset="24272309" id="2973025892" lat="37.3722143" lon="-122.0998404" timestamp="2014-07-21T12:32:03Z" uid="214969" user="AndrewBuck" version="1" />
+	<node changeset="25205403" id="3057406294" lat="37.4268856" lon="-122.0908925" timestamp="2014-09-03T13:56:02Z" uid="860575" user="MarcelHerault" version="1" />
+	<node changeset="25720023" id="3099996286" lat="37.3672743" lon="-122.0809117" timestamp="2014-09-28T08:12:50Z" uid="202256" user="Telecas" version="1" />
+	<node changeset="26781475" id="3186994181" lat="37.3921845" lon="-122.0646048" timestamp="2014-11-14T17:18:24Z" uid="595221" user="matthieun" version="1" />
+	<node changeset="29685871" id="3414738313" lat="37.391289" lon="-122.0601317" timestamp="2015-03-23T19:11:30Z" uid="2772534" user="vchernetsky" version="1" />
+	<node changeset="36683941" id="3690528543" lat="37.39299" lon="-122.0253811" timestamp="2016-01-19T16:59:38Z" uid="2748195" user="karitotp" version="2" />
+	<node changeset="34107184" id="3749487086" lat="37.3906831" lon="-122.0285534" timestamp="2015-09-18T17:01:53Z" uid="595221" user="matthieun" version="1" /><node changeset="37106693" id="3803807625" lat="37.315391" lon="-122.0051161" timestamp="2016-02-09T17:39:45Z" uid="94578" user="andygol" version="3" />
+	<node changeset="37021126" id="3807527055" lat="37.3350943" lon="-122.0408042" timestamp="2016-02-05T14:39:26Z" uid="2226712" user="dannykath" version="2" />
+	<node changeset="37086799" id="3807611916" lat="37.3225302" lon="-122.0709092" timestamp="2016-02-08T19:08:02Z" uid="94578" user="andygol" version="2" />
+	<node changeset="37089753" id="3807632674" lat="37.3199617" lon="-122.0690173" timestamp="2016-02-08T21:20:26Z" uid="2511706" user="calfarome" version="2" />
+	<node changeset="36976781" id="3807648589" lat="37.3280216" lon="-122.030166" timestamp="2016-02-03T13:06:20Z" uid="3029661" user="saikabhi" version="2" />
+	<node changeset="34940548" id="3807781566" lat="37.3236724" lon="-122.0619875" timestamp="2015-10-29T03:10:12Z" uid="3343986" user="n76_cupertino_import" version="1" />
+	<node changeset="37024513" id="3807801182" lat="37.3256329" lon="-122.0570638" timestamp="2016-02-05T17:24:25Z" uid="2219338" user="RichRico" version="2" />
+	<node changeset="34940943" id="3807828437" lat="37.3303367" lon="-122.0421304" timestamp="2015-10-29T04:18:53Z" uid="3343986" user="n76_cupertino_import" version="1" />
+	<node changeset="34950655" id="3808452157" lat="37.3174038" lon="-122.0612021" timestamp="2015-10-29T14:44:16Z" uid="3343986" user="n76_cupertino_import" version="1" />
+	<node changeset="37021218" id="3808865482" lat="37.3160486" lon="-122.0541122" timestamp="2016-02-05T14:44:30Z" uid="2219338" user="RichRico" version="2" /><node changeset="37103947" id="3808909978" lat="37.3107623" lon="-122.0456691" timestamp="2016-02-09T15:32:27Z" uid="1829683" user="Luis36995" version="2" />
+	<node changeset="37088109" id="3811935320" lat="37.3210484" lon="-122.0471653" timestamp="2016-02-08T20:08:34Z" uid="94578" user="andygol" version="2" />
+	<node changeset="37009493" id="3812770803" lat="37.3145343" lon="-122.0284526" timestamp="2016-02-04T22:08:05Z" uid="2748195" user="karitotp" version="2" />
+	<node changeset="37105038" id="3812903953" lat="37.3222734" lon="-122.0199689" timestamp="2016-02-09T16:24:49Z" uid="2219338" user="RichRico" version="3" />
+	<node changeset="36966758" id="3812953158" lat="37.3182552" lon="-122.0120874" timestamp="2016-02-02T21:31:04Z" uid="2512300" user="samely" version="2" />
+	<node changeset="37104818" id="3812985642" lat="37.3213369" lon="-122.0040469" timestamp="2016-02-09T16:15:20Z" uid="2226712" user="dannykath" version="4" />
+	<node changeset="35357489" id="3839457541" lat="37.3471247" lon="-122.0992811" timestamp="2015-11-16T17:57:55Z" uid="2748195" user="karitotp" version="1" />
+	<node changeset="35390154" id="3841760556" lat="37.3933601" lon="-122.1126371" timestamp="2015-11-17T21:30:05Z" uid="1240849" user="ediyes" version="1" />
+	<node changeset="35409315" id="3842749230" lat="37.3649859" lon="-122.0671343" timestamp="2015-11-18T15:25:22Z" uid="2748195" user="karitotp" version="1" />
+	<node changeset="35413902" id="3843081319" lat="37.3874531" lon="-122.0969154" timestamp="2015-11-18T18:01:29Z" uid="1240849" user="ediyes" version="1" />
+	<node changeset="35420770" id="3843670335" lat="37.3840283" lon="-122.0984552" timestamp="2015-11-18T21:32:19Z" uid="1240849" user="ediyes" version="1" />
+	<node changeset="35438711" id="3844756380" lat="37.355889" lon="-122.0708" timestamp="2015-11-19T15:54:58Z" uid="2748195" user="karitotp" version="1" />
+	<node changeset="35444757" id="3845325700" lat="37.3387679" lon="-122.0769323" timestamp="2015-11-19T19:36:17Z" uid="1240849" user="ediyes" version="1" />
+	<node changeset="35448151" id="3845693886" lat="37.3434875" lon="-122.0850447" timestamp="2015-11-19T21:48:34Z" uid="1240849" user="ediyes" version="1" />
+	<node changeset="35463823" id="3846868431" lat="37.3566427" lon="-122.085774" timestamp="2015-11-20T15:15:05Z" uid="2511706" user="calfarome" version="1" />
+	<node changeset="35467300" id="3847284142" lat="37.3575119" lon="-122.0812951" timestamp="2015-11-20T17:48:45Z" uid="2511706" user="calfarome" version="1" />
+	<node changeset="35471486" id="3847788969" lat="37.3385617" lon="-122.0839129" timestamp="2015-11-20T21:15:25Z" uid="1240849" user="ediyes" version="1" />
+	<node changeset="35532424" id="3854574066" lat="37.3625324" lon="-122.0773482" timestamp="2015-11-23T15:24:28Z" uid="2219338" user="RichRico" version="1" />
+	<node changeset="35535307" id="3854908941" lat="37.3814974" lon="-122.1159919" timestamp="2015-11-23T17:48:23Z" uid="1240849" user="ediyes" version="1" />
+	<node changeset="35540242" id="3855422056" lat="37.3756019" lon="-122.113318" timestamp="2015-11-23T22:13:37Z" uid="2511706" user="calfarome" version="1" />
+	<node changeset="35556463" id="3857210164" lat="37.3727366" lon="-122.0922065" timestamp="2015-11-24T18:07:34Z" uid="2748195" user="karitotp" version="1" />
+	<node changeset="35960395" id="3892947096" lat="37.3889195" lon="-122.0450707" timestamp="2015-12-15T06:58:05Z" uid="2015224" user="Jothirnadh" version="1" />
+	<node changeset="36022066" id="3897657671" lat="37.3659765" lon="-122.0031029" timestamp="2015-12-18T06:10:20Z" uid="1240849" user="ediyes" version="1" />
+	<node changeset="36032834" id="3898684027" lat="37.366403" lon="-122.003872" timestamp="2015-12-18T17:57:37Z" uid="1240849" user="ediyes" version="1" />
+	<node changeset="36598580" id="3902656549" lat="37.3447113" lon="-122.0107788" timestamp="2016-01-15T17:30:48Z" uid="2226712" user="dannykath" version="2" />
+	<node changeset="36109916" id="3905071265" lat="37.35865" lon="-122.0145284" timestamp="2015-12-22T17:15:19Z" uid="2219338" user="RichRico" version="1" />
+	<node changeset="36128900" id="3906781790" lat="37.3508406" lon="-122.0096671" timestamp="2015-12-23T16:12:57Z" uid="2511706" user="calfarome" version="1" />
+	<node changeset="36139245" id="3907638446" lat="37.3560131" lon="-122.0115534" timestamp="2015-12-24T06:13:55Z" uid="2905914" user="pratikyadav" version="1" />
+	<node changeset="36397204" id="3929950690" lat="37.4081815" lon="-122.0391901" timestamp="2016-01-06T08:14:15Z" uid="2823295" user="ramyaragupathy" version="1" />
+	<node changeset="36415250" id="3931382602" lat="37.3999908" lon="-122.004836" timestamp="2016-01-06T23:05:46Z" uid="2512300" user="samely" version="1" />
+	<node changeset="36431004" id="3932669054" lat="37.3385614" lon="-121.9989761" timestamp="2016-01-07T18:52:04Z" uid="2748195" user="karitotp" version="1" />
+	<node changeset="36433300" id="3932927983" lat="37.3984788" lon="-122.0101954" timestamp="2016-01-07T20:46:35Z" uid="2512300" user="samely" version="1" />
+	<node changeset="36445338" id="3933854613" lat="37.3858994" lon="-122.0272079" timestamp="2016-01-08T13:52:15Z" uid="2226712" user="dannykath" version="1" />
+	<node changeset="36473510" id="3936958049" lat="37.4132034" lon="-122.0928121" timestamp="2016-01-10T00:28:08Z" uid="670691" user="Harry Cutts" version="1" />
+	<node changeset="36566752" id="3945587078" lat="37.3783038" lon="-122.0554794" timestamp="2016-01-14T10:08:19Z" uid="2835928" user="nikhilprabhakar" version="1" />
+	<node changeset="36572964" id="3946215744" lat="37.364537" lon="-121.9931312" timestamp="2016-01-14T15:44:31Z" uid="2226712" user="dannykath" version="1" />
+	<node changeset="36575010" id="3946331322" lat="37.3994234" lon="-121.9995016" timestamp="2016-01-14T17:06:24Z" uid="2512300" user="samely" version="1" />
+	<node changeset="36578064" id="3946514133" lat="37.405939" lon="-122.0008772" timestamp="2016-01-14T19:14:55Z" uid="2512300" user="samely" version="1" />
+	<node changeset="36580822" id="3946719237" lat="37.4165077" lon="-122.0710389" timestamp="2016-01-14T21:20:27Z" uid="2512300" user="samely" version="1" />
+	<node changeset="36591994" id="3947910845" lat="37.4032396" lon="-121.987315" timestamp="2016-01-15T12:51:54Z" uid="2219338" user="RichRico" version="1" />
+	<node changeset="36594503" id="3948137205" lat="37.402483" lon="-122.071857" timestamp="2016-01-15T14:42:32Z" uid="1829683" user="Luis36995" version="1" />
+	<node changeset="36596484" id="3948248923" lat="37.3844435" lon="-122.0437601" timestamp="2016-01-15T16:02:24Z" uid="2512300" user="samely" version="1" />
+	<node changeset="36598232" id="3948373125" lat="37.3462709" lon="-122.0320583" timestamp="2016-01-15T17:13:26Z" uid="2219338" user="RichRico" version="1" />
+	<node changeset="36600637" id="3948582975" lat="37.3521973" lon="-122.1112702" timestamp="2016-01-15T19:08:04Z" uid="1829683" user="Luis36995" version="1" />
+	<node changeset="36603118" id="3948779612" lat="37.4026128" lon="-122.0937032" timestamp="2016-01-15T20:37:07Z" uid="1829683" user="Luis36995" version="1" />
+	<node changeset="36604444" id="3948902486" lat="37.375233" lon="-122.022527" timestamp="2016-01-15T21:50:41Z" uid="2512300" user="samely" version="1" />
+	<node changeset="36665980" id="3954129391" lat="37.3532773" lon="-122.0913422" timestamp="2016-01-18T19:44:27Z" uid="1829683" user="Luis36995" version="1" />
+	<node changeset="36683035" id="3955414915" lat="37.3239223" lon="-121.9922915" timestamp="2016-01-19T16:17:53Z" uid="2512300" user="samely" version="1" />
+	<node changeset="36686309" id="3955653853" lat="37.3653854" lon="-122.0514525" timestamp="2016-01-19T19:01:10Z" uid="2748195" user="karitotp" version="1" />
+	<node changeset="36696651" id="3956361520" lat="37.395522" lon="-121.9920811" timestamp="2016-01-20T09:56:20Z" uid="2835928" user="nikhilprabhakar" version="1" />
+	<node changeset="36967217" id="3984987213" lat="37.3215324" lon="-122.0123924" timestamp="2016-02-02T22:00:00Z" uid="2512300" user="samely" version="1" />
+	<node changeset="36985456" id="3986906795" lat="37.3412309" lon="-122.0467453" timestamp="2016-02-03T20:26:24Z" uid="2226712" user="dannykath" version="1" />
+	<node changeset="37001799" id="3988356176" lat="37.3098492" lon="-122.0108871" timestamp="2016-02-04T16:23:48Z" uid="2748195" user="karitotp" version="1" />
+	<node changeset="37216113" id="4006762395" lat="37.4109901" lon="-122.0911979" timestamp="2016-02-15T02:28:10Z" uid="670691" user="Harry Cutts" version="1" />
+	<way changeset="6985320" id="8939612" timestamp="2011-01-16T09:37:34Z" uid="201724" user="mk408" version="3">
+		<nd ref="65505047" />
+		<nd ref="65505049" />
+		<nd ref="1105873210" />
+		<tag k="name" v="Blaney Court" />
+		<tag k="highway" v="residential" />
+		<tag k="tiger:county" v="Santa Clara, CA" />
+		<tag k="tiger:zip_left" v="95014" />
+		<tag k="tiger:name_base" v="Blaney" />
+		<tag k="tiger:name_type" v="Ct" />
+	</way>
+	<way changeset="3876264" id="49462009" timestamp="2010-02-14T18:19:34Z" uid="201724" user="mk408" version="2">
+		<nd ref="628508223" />
+		<nd ref="628508221" />
+		<tag k="boat" v="no" />
+		<tag k="name" v="Calabazas Creek" />
+		<tag k="layer" v="-1" />
+		<tag k="tunnel" v="yes" />
+		<tag k="waterway" v="stream" />
+		<tag k="scvwd:ROUTEID" v="20100" />
+		<tag k="scvwd:FACILITY" v="2010" />
+	</way>
+	<way changeset="36981393" id="205799842" timestamp="2016-02-03T17:08:43Z" uid="2226712" user="dannykath" version="2">
+		<nd ref="2157827699" />
+		<nd ref="3986536175" />
+		<nd ref="2157827715" />
+		<nd ref="2157827705" />
+		<nd ref="2157827685" />
+		<nd ref="2157827699" />
+		<tag k="building" v="yes" />
+	</way>
+	<way changeset="19956699" id="231482472" timestamp="2014-01-12T17:30:02Z" uid="169004" user="oldtopos" version="2">
+		<nd ref="2398618415" />
+		<nd ref="2398618411" />
+		<nd ref="2398618393" />
+		<nd ref="2398618395" />
+		<nd ref="2398618397" />
+		<nd ref="2398618398" />
+		<nd ref="2398618415" />
+		<tag k="name" v="Buckles-Smith" />
+		<tag k="phone" v="6504940400" />
+		<tag k="source" v="City of Palo Alto CA 0713" />
+		<tag k="website" v="http://www.buckles-smith.com/" />
+		<tag k="building" v="yes" />
+		<tag k="addr:city" v="Palo Alto" />
+		<tag k="addr:street" v="San Antonio Avenue" />
+		<tag k="paloalto_ca:id" v="406" />
+		<tag k="addr:housenumber" v="796" />
+	</way>
+	<way changeset="20679303" id="262565577" timestamp="2014-02-20T17:32:51Z" uid="318696" user="n76" version="1">
+		<nd ref="2682235350" />
+		<nd ref="2682235354" />
+		<nd ref="2682235353" />
+		<nd ref="2682235359" />
+		<nd ref="2682235321" />
+		<nd ref="2682235306" />
+		<nd ref="2682235335" />
+		<nd ref="2682235328" />
+		<nd ref="2682235350" />
+		<tag k="source" v="bing;survey" />
+		<tag k="building" v="house" />
+		<tag k="addr:street" v="Lewiston Drive" />
+		<tag k="addr:housenumber" v="1484" />
+	</way>
+	<way changeset="38244862" id="334476905" timestamp="2016-04-02T09:25:11Z" uid="138772" user="lodde1949" version="2">
+		<nd ref="4092176670" />
+		<tag k="building" v="house" />
+		<tag k="addr:street" v="Broechemsesteenweg" />
+		<tag k="addr:housenumber" v="204,206" />
+	</way>
+	<way changeset="34940943" id="377409529" timestamp="2015-10-29T04:20:40Z" uid="3343986" user="n76_cupertino_import" version="1">
+		<nd ref="3807828810" />
+		<nd ref="3807828874" />
+		<nd ref="3807828875" />
+		<nd ref="3807828872" />
+		<nd ref="3807828873" />
+		<nd ref="3807828791" />
+		<nd ref="3807828792" />
+		<nd ref="3807828759" />
+		<nd ref="3807828758" />
+		<nd ref="3807828785" />
+		<nd ref="3807828784" />
+		<nd ref="3807828797" />
+		<nd ref="3807828798" />
+		<nd ref="3807828809" />
+		<nd ref="3807828810" />
+		<tag k="height" v="4.3" />
+		<tag k="building" v="yes" />
+		<tag k="addr:street" v="Castine Avenue" />
+		<tag k="addr:postcode" v="95014-1311" />
+		<tag k="addr:housenumber" v="10530" />
+	</way>
+	<way changeset="35389808" id="380875343" timestamp="2015-11-17T21:17:59Z" uid="1240849" user="ediyes" version="2">
+		<nd ref="3841745579" />
+		<nd ref="3841750332" />
+		<nd ref="3841750330" />
+		<nd ref="3841745578" />
+		<nd ref="3841745581" />
+		<nd ref="3841745580" />
+		<nd ref="3841745577" />
+		<nd ref="3841745576" />
+		<nd ref="3841745572" />
+		<nd ref="3841745573" />
+		<nd ref="3841745562" />
+		<nd ref="3841745563" />
+		<nd ref="3841745560" />
+		<nd ref="3841745561" />
+		<nd ref="3841745579" />
+		<tag k="building" v="yes" />
+	</way>
+	<way changeset="35533513" id="382271251" timestamp="2015-11-23T16:06:24Z" uid="1240849" user="ediyes" version="1">
+		<nd ref="3854652720" />
+		<nd ref="3854652728" />
+		<nd ref="3854652731" />
+		<nd ref="3854652732" />
+		<nd ref="3854652739" />
+		<nd ref="3854652738" />
+		<nd ref="3854652743" />
+		<nd ref="3854652741" />
+		<nd ref="3854652744" />
+		<nd ref="3854652742" />
+		<nd ref="3854652740" />
+		<nd ref="3854652737" />
+		<nd ref="3854652720" />
+		<tag k="building" v="yes" />
+	</way>
+	<way changeset="36139716" id="387472860" timestamp="2015-12-24T07:19:34Z" uid="2905914" user="pratikyadav" version="1">
+		<nd ref="3907683844" />
+		<nd ref="3907683845" />
+		<nd ref="3907683834" />
+		<nd ref="3907683833" />
+		<nd ref="3907683844" />
+		<tag k="building" v="yes" />
+	</way>
+	<way changeset="36573571" id="391399701" timestamp="2016-01-14T16:05:34Z" uid="2512300" user="samely" version="1">
+		<nd ref="3946246384" />
+		<nd ref="3946246351" />
+		<nd ref="3946246350" />
+		<nd ref="3946246340" />
+		<nd ref="3946246339" />
+		<nd ref="3946246349" />
+		<nd ref="3946246348" />
+		<nd ref="3946246389" />
+		<nd ref="3946246390" />
+		<nd ref="3946246383" />
+		<nd ref="3946246384" />
+		<tag k="building" v="yes" />
+	</way>
+	<way changeset="39257759" id="391636167" timestamp="2016-05-12T05:21:58Z" uid="670691" user="Harry Cutts" version="2">
+		<nd ref="3948592905" />
+		<nd ref="3948592933" />
+		<nd ref="3948592947" />
+		<nd ref="3948592951" />
+		<nd ref="3948593101" />
+		<nd ref="3948593086" />
+		<nd ref="3948593083" />
+		<nd ref="3948593078" />
+		<nd ref="3948592949" />
+		<nd ref="3948592943" />
+		<nd ref="3948592905" />
+		<tag k="building" v="house" />
+		<tag k="addr:city" v="Mountain View" />
+		<tag k="addr:state" v="CA" />
+		<tag k="addr:street" v="Farley Street" />
+		<tag k="addr:postcode" v="94043" />
+		<tag k="building:levels" v="2" />
+		<tag k="addr:housenumber" v="245" />
+	</way>
+	<way changeset="37001026" id="396031037" timestamp="2016-02-04T15:41:37Z" uid="2219338" user="RichRico" version="1">
+		<nd ref="3988268120" />
+		<nd ref="3988268106" />
+		<nd ref="3988268066" />
+		<nd ref="3988268070" />
+		<nd ref="3988268060" />
+		<nd ref="3988268068" />
+		<nd ref="3988268093" />
+		<nd ref="3988268101" />
+		<nd ref="3988268120" />
+		<tag k="building" v="yes" />
+	</way>
+	<way changeset="39222833" id="417050706" timestamp="2016-05-10T16:51:26Z" uid="1829683" user="Luis36995" version="1">
+		<nd ref="4176803539" />
+		<nd ref="65449629" />
+		<tag k="name" v="West Evelyn Avenue" />
+		<tag k="bicycle" v="yes" />
+		<tag k="highway" v="secondary" />
+		<tag k="surface" v="asphalt" />
+		<tag k="cycleway" v="lane" />
+		<tag k="maxspeed" v="30 mph" />
+		<tag k="tiger:cfcc" v="A41" />
+		<tag k="tiger:county" v="Santa Clara, CA" />
+		<tag k="tiger:zip_left" v="94041; 94086" />
+		<tag k="source:maxspeed" v="sign" />
+		<tag k="tiger:name_base" v="Evelyn" />
+		<tag k="tiger:name_type" v="Ave" />
+		<tag k="tiger:zip_right" v="94041; 94086" />
+		<tag k="turn:lanes:forward" v="left|none" />
+		<tag k="tiger:name_direction_prefix" v="W" />
+	</way>
+	</osm>
